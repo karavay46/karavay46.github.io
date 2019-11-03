@@ -1,0 +1,21 @@
+.miimg img {
+  width: 100%;
+}
+.col-md-12 {
+  color: rgb(45, 164, 243);
+}
+body {
+  background-color: black;
+  color: rgb(255, 0, 0);
+}
+a{
+  color: rgb(255, 255, 255);
+  
+}
+.col-md-4{
+  color: rgb(45, 164, 243);
+
+}
+.col-md{
+  color: aqua;
+}
